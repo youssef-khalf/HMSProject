@@ -1,3 +1,3 @@
 git add .
-git commit -m "New Commit"
+git commit -m "Done Push"
 git push -u origin
